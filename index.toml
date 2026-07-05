@@ -1,5 +1,154 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".claude/settings.local.json"
+hash = "780979d3fdcb1ba7b499da1ceb34094a0876376291f184c26144ee4e2abc22a8"
+
+[[files]]
 file = "config/logbegone.json"
 hash = "7b6b4204d9e66f14e92a0f1a8a48d7cd29a65762b4b7cc066cc557164f0e9001"
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "7d5659cf745f95eedf7a907184698eb950d5ef067d011da028b72a578642fe90"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "7c3b1f4819e8a3b88cadd8ed968d74491c71f504738dd0f2cd60f3ff40d80f72"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
+metafile = true
+
+[[files]]
+file = "mods/chunky-offline.pw.toml"
+hash = "986f28c111e5ecf1a77054203ddcc6642d269561827cab3968c811672a7ce53c"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "518e7935a14f6612328c283bea9eb7092db6a0d637fb6cf6ac6820d4e3228f03"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "16aa04ea994ad4259363094b8aabbe069435ae4ab666c27e1b11a0f20dd90c9c"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "db4c055299a474362c9e6359c7567e4b53a3288060560c20730949da667092bc"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "f565820169e3cd71f18fd0b18eab2405bc400668813d04f3f3eb75b6c8924bcc"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "5707b722541648df013644f3b4d50083c77965d536f219df9fac5026f6103777"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "48bd525ac1cd8811759a7842548a49e51bd25455b8044f99a423d464987dfdc0"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "25fc0896358f8f3e642d1a335085e2aa39ebb4f4f56e28a84546fbd526837e64"
+metafile = true
+
+[[files]]
+file = "mods/monsters-in-the-closet.pw.toml"
+hash = "6afce08213c05a33240e980e2b92032a6a3ad25d2a54ff8e9f56b5f00d46d45d"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "923c7963daf75a6c675655b9433282e1260289837a53f02d2b2e72c14e0762dd"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "ae1a00455be0edadffea3e272b43a7d8080a501fc4fe0e3e8ff91bb81903d6e6"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/shatterbyte-lib.pw.toml"
+hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "d379a43459f5d24be47e6518a804dcf303b344b9e8a870d30213efd392c7a05e"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/toastbegone.pw.toml"
+hash = "a4baef234f249a012dfb922578f2f9122a75c74ddc3dca9caebdb92cbd49cfb4"
+metafile = true

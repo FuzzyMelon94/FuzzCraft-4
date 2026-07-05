@@ -167,29 +167,50 @@ These are not pillars — each gets a focused, minimal selection.
 
 ### Performance Foundation
 Standard performance stack — confirmed during Batch 1:
-- Sodium (NeoForge build, pinned to Iris-compatible version)
+- Sodium mc1.21.1-0.6.13-neoforge (pinned) + Sodium Extra + Reese's Sodium Options
 - Iris Shaders
 - FerriteCore
 - ModernFix
-- Starlight / Canary
+- Canary
+- Clumps (XP orb merging)
 - FTB Chunks + Chunky + Chunky Offline (pregen)
 - Spark (profiler, keep for debugging)
 
 **Shaders:** Not bundled in the pack. README recommends [Complementary Shaders + Euphoria Patches](https://www.complementary.dev/shaders/) with install instructions and a pre-configured `.txt` settings file for players to import via Iris.
 
 ### QoL Utilities
-Confirmed carry-forwards from FC4; full list confirmed during Batch 1:
-- EMI (recipe viewer)
+
+**Batch 1 — Foundation QoL (in from day 1):**
+- EMI (recipe viewer) + NERB (hides vanilla recipe book)
 - JourneyMap
 - Default Options (sprint/sneak defaults, no bobbing)
 - Log Begone
 - ToastBegone
-- GraveStone
 - Controlling + Searchables
 - BetterF3
-- Sound Physics Remastered
-- Dynamic FPS
+- Jade (block/entity tooltips)
+- Just Zoom
+- No Chat Reports
+- Better Compatibility Checker
+- Monsters in the Closet
+- Crash Assistant
+
+**Batch 7 — QoL pass (deferred until full mod set is stable):**
+- GraveStone
 - TrashSlot
+- Dynamic FPS
+- Sound Physics Remastered
+- LMFT (vanilla tweaks)
+- Double Doors
+- Item Borders
+- Jump Over Fences
+- Klee Slabs
+- Reactive Music
+- Inventory sorting (TBD — investigate.md)
+- Right click harvest (TBD — investigate.md)
+- Recipe de-duplicators (TBD — investigate.md)
+- Unification mods (TBD — investigate.md)
+- Curios API config (once Curios is in as a dep)
 
 ---
 
@@ -197,13 +218,13 @@ Confirmed carry-forwards from FC4; full list confirmed during Batch 1:
 
 | Batch | Name | Scope |
 |---|---|---|
-| 1 | Foundation | Performance, Sodium/Iris + shaders, EMI, JourneyMap, FTB Chunks, Chunky, QoL utilities, Default Options |
+| 1 | Foundation | Performance stack (Sodium pinned + extras, Iris, FerriteCore, ModernFix, Canary, Clumps), FTB Chunks, Chunky, Spark, EMI + NERB, JourneyMap, Default Options, Log Begone, ToastBegone, Controlling + Searchables, BetterF3, Jade, Just Zoom, No Chat Reports, Better Compat Checker, Monsters in the Closet, Crash Assistant |
 | 2 | Tech Core | Create + addons, CC: Tweaked, Silent Gear, Refined Storage, Storage Drawers, Sophisticated Backpacks |
-| 3 | Tech Extras & Food | Productive Bees, mob automation TBD, Farmer's Delight, Botany Pots + Trees, Spice of Life |
+| 3 | Tech Extras & Food | Productive Bees, mob automation (IF or MGU), Farmer's Delight, Botany Pots + Trees, Spice of Life, AppleSkin |
 | 4 | Magic | Ars Nouveau + any deps/addons |
-| 5 | World Gen & Combat | Terralith + Tectonic + BOP, Incendium + nether structure mods, Nullscape + End Island, YUNG's suite, CTOV, Better Combat, Apotheosis, all mob mods |
+| 5 | World Gen & Combat | Terralith + Tectonic + BOP, Incendium + nether structure mods, Nullscape + End Island, YUNG's suite, CTOV + Paxi, Better Combat, Apotheosis, all mob mods, AttributeFix, Sparse Structures |
 | 6 | Dimensions | TF, Aether suite, Deeper & Darker, Bumblezone, Dimensional Dungeons, Dimensional Pockets II, Lootr |
-| 7 | Navigation & QoL | Waystones + Towers of the Wild, Paragliders, final QoL pass, compat review |
+| 7 | Navigation & QoL | Waystones + Towers of the Wild, Paragliders, full QoL pass (GraveStone, TrashSlot, Dynamic FPS, Sound Physics, LMFT, Double Doors, Item Borders, Jump Over Fences, Klee Slabs, Reactive Music + investigate.md candidates), compat review |
 | 8 | Questing | FTB Quests — questlines for all major mods; no new content mods |
 
 ---
