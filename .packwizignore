@@ -1,6 +1,7 @@
 CLAUDE.md
 README.md
 docs/
+.claude/
 .gitattributes
 .gitignore
 .packwizignore
