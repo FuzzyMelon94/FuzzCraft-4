@@ -2,11 +2,16 @@ hash-format = "sha256"
 
 [[files]]
 file = ".claude/settings.local.json"
-hash = "780979d3fdcb1ba7b499da1ceb34094a0876376291f184c26144ee4e2abc22a8"
+hash = "13f202b40a3a8efde8aea41c0830677254287f44ee554aa3f9af1d83d220c297"
 
 [[files]]
 file = "config/logbegone.json"
 hash = "7b6b4204d9e66f14e92a0f1a8a48d7cd29a65762b4b7cc066cc557164f0e9001"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
@@ -69,6 +74,21 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "268e0ccb66eb96da9a85f129ee1247581398e6d4848d190647729cd68a7a5006"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "5fb287ddb204cc2460dc51984099b0010462f781d00b2d6ed2a37046accf2560"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
@@ -115,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
-hash = "923c7963daf75a6c675655b9433282e1260289837a53f02d2b2e72c14e0762dd"
+hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
 metafile = true
 
 [[files]]
