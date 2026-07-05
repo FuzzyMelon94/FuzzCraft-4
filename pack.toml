@@ -1,0 +1,13 @@
+name = "FuzzCraft 4"
+author = "FuzzyMelon94"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3cc6337af1c1225e2152f03661c79651febd46e878c3166a4e68fadbadb7dc6f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"

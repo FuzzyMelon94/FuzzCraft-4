@@ -1,0 +1,41 @@
+hash-format = "sha256"
+
+[[files]]
+file = "CLAUDE.md"
+hash = "8eedff28baa8cab839cf1636636509fcc8d23d2a77d8530928c7ce47c9e01251"
+
+[[files]]
+file = "README.md"
+hash = "ac535c652214049a198b716982535e9284cfb50e886962bce76c3c1c837464f5"
+
+[[files]]
+file = "config/logbegone.json"
+hash = "7b6b4204d9e66f14e92a0f1a8a48d7cd29a65762b4b7cc066cc557164f0e9001"
+
+[[files]]
+file = "docs/charter.md"
+hash = "6d1fcf545208dd33e92316ccc1681d4c5bf6528f38c6a887f5d9761c06b6f845"
+
+[[files]]
+file = "docs/filtered-logs.md"
+hash = "4c675ac2c52f394aeb8bbc731bfd1da6209f159bc9cfcd3a7e235d4decacd933"
+
+[[files]]
+file = "docs/investigate.md"
+hash = "00f3a1fb1bf5e2268d9b61d81fd43908ab2b00a1726635d40bf66f51f05b300d"
+
+[[files]]
+file = "docs/issues/_template.md"
+hash = "6e5c89fadd495fb5b5c14d94305f8ca233f41f62c7c87db5e93e14596518ee8c"
+
+[[files]]
+file = "docs/post-mortem.md"
+hash = "256248e7d2e2149827db7682a1d75427ff82a4caa5a1b34546d163cb7dc6ca46"
+
+[[files]]
+file = "docs/testing/multiplayer.md"
+hash = "c8c4f459dcb0f8723716e53aed75bdce245ea78db147d0dab5b02626acd82c80"
+
+[[files]]
+file = "docs/watchlist.md"
+hash = "780b02c7182e3a45ef2d3123993fb547edc1a872ba713859c350d75fc3716abe"
