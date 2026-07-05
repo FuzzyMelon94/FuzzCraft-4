@@ -171,7 +171,6 @@ Standard performance stack — confirmed during Batch 1:
 - Iris Shaders
 - FerriteCore
 - ModernFix
-- Canary
 - Clumps (XP orb merging)
 - FTB Chunks + Chunky + Chunky Offline (pregen)
 - Spark (profiler, keep for debugging)
@@ -218,7 +217,7 @@ Standard performance stack — confirmed during Batch 1:
 
 | Batch | Name | Scope |
 |---|---|---|
-| 1 | Foundation | Performance stack (Sodium pinned + extras, Iris, FerriteCore, ModernFix, Canary, Clumps), FTB Chunks, Chunky, Spark, EMI + NERB, JourneyMap, Default Options, Log Begone, ToastBegone, Controlling + Searchables, BetterF3, Jade, Just Zoom, No Chat Reports, Better Compat Checker, Monsters in the Closet, Crash Assistant |
+| 1 | Foundation | Performance stack (Sodium pinned + extras, Iris, FerriteCore, ModernFix, Clumps), FTB Chunks, Chunky, Spark, EMI + NERB, JourneyMap, Default Options, Log Begone, ToastBegone, Controlling + Searchables, BetterF3, Jade, Just Zoom, No Chat Reports, Better Compat Checker, Monsters in the Closet, Crash Assistant |
 | 2 | Tech Core | Create + addons, CC: Tweaked, Silent Gear, Refined Storage, Storage Drawers, Sophisticated Backpacks |
 | 3 | Tech Extras & Food | Productive Bees, mob automation (IF or MGU), Farmer's Delight, Botany Pots + Trees, Spice of Life, AppleSkin |
 | 4 | Magic | Ars Nouveau + any deps/addons |
