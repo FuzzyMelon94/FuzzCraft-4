@@ -50,7 +50,7 @@ Before adding any mod, ask: does this fit the hardware budget? If uncertain, per
 
 **Pre-launch command (ATLauncher & Prism):**
 ```
-"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://fuzzymelon94.github.io/FuzzCraft/pack.toml
+"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://fuzzymelon94.github.io/FuzzCraft-4/pack.toml
 ```
 
 ---
@@ -80,12 +80,11 @@ Create is the spine. The goal is a deep, satisfying automation experience where 
 | Create + addons (Create: Big Cannons, Steam 'n' Rails, etc.) | Core automation, contraptions, trains |
 | CC: Tweaked | Scripted automation, turtles, computer control |
 | Silent Gear | Modular tools and weapons — doesn't break, fully upgradeable |
-| Alloy Forgery | Alloy smelting and processing (fills Tinkers'-style smeltery gap) |
 | Refined Storage | Late-game digital storage |
 | Storage Drawers | Early/mid visual bulk storage |
 | Sophisticated Backpacks | Player inventory management |
 | Productive Bees | Passive resource generation; planned questline |
-| Mob automation | TBD — research Industrial Foregoing or equivalent for mob farm automation |
+| Mob automation | Industrial Foregoing (primary candidate) or Mob Grinding Utils (more targeted) — decide at Batch 3 |
 
 **Watchlist:**
 - Tinkers' Construct — NeoForge 1.21.1 port in progress, no timeline. Add as a batch when it lands; coexists with Silent Gear.
@@ -164,18 +163,19 @@ These are not pillars — each gets a focused, minimal selection.
 ### Loot
 | Mod | Notes |
 |---|---|
-| Lootr | Instanced loot chests — each player gets their own loot from shared chests |
+| Lootr | Instanced loot chests — each player gets their own loot from shared chests; added in Batch 6 (Dimensions) where it matters most |
 
 ### Performance Foundation
 Standard performance stack — confirmed during Batch 1:
 - Sodium (NeoForge build, pinned to Iris-compatible version)
 - Iris Shaders
-- Complementary Shaders + Euphoria Patches (bundled in `shaderpacks/`)
 - FerriteCore
 - ModernFix
 - Starlight / Canary
 - FTB Chunks + Chunky + Chunky Offline (pregen)
 - Spark (profiler, keep for debugging)
+
+**Shaders:** Not bundled in the pack. README recommends [Complementary Shaders + Euphoria Patches](https://www.complementary.dev/shaders/) with install instructions and a pre-configured `.txt` settings file for players to import via Iris.
 
 ### QoL Utilities
 Confirmed carry-forwards from FC4; full list confirmed during Batch 1:
@@ -198,12 +198,12 @@ Confirmed carry-forwards from FC4; full list confirmed during Batch 1:
 | Batch | Name | Scope |
 |---|---|---|
 | 1 | Foundation | Performance, Sodium/Iris + shaders, EMI, JourneyMap, FTB Chunks, Chunky, QoL utilities, Default Options |
-| 2 | Tech Core | Create + addons, CC: Tweaked, Silent Gear, Alloy Forgery, Refined Storage, Storage Drawers, Sophisticated Backpacks |
+| 2 | Tech Core | Create + addons, CC: Tweaked, Silent Gear, Refined Storage, Storage Drawers, Sophisticated Backpacks |
 | 3 | Tech Extras & Food | Productive Bees, mob automation TBD, Farmer's Delight, Botany Pots + Trees, Spice of Life |
 | 4 | Magic | Ars Nouveau + any deps/addons |
 | 5 | World Gen & Combat | Terralith + Tectonic + BOP, Incendium + nether structure mods, Nullscape + End Island, YUNG's suite, CTOV, Better Combat, Apotheosis, all mob mods |
-| 6 | Dimensions | TF, Aether suite, Deeper & Darker, Bumblezone, Dimensional Dungeons, Dimensional Pockets II |
-| 7 | Navigation & QoL | Waystones + Towers of the Wild, Paragliders, Lootr, final QoL pass, compat review |
+| 6 | Dimensions | TF, Aether suite, Deeper & Darker, Bumblezone, Dimensional Dungeons, Dimensional Pockets II, Lootr |
+| 7 | Navigation & QoL | Waystones + Towers of the Wild, Paragliders, final QoL pass, compat review |
 | 8 | Questing | FTB Quests — questlines for all major mods; no new content mods |
 
 ---
