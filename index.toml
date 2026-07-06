@@ -5,8 +5,12 @@ file = "config/chunky/tasks/minecraft/overworld.properties"
 hash = "85ab9914084e877182d0a218de4454a810cd97ce6ffdb63294024e4a58f3b1c9"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "637673adcced3e9fad6d17e89ee31eedee6349809fffe8eec5c0a340788406a0"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
-hash = "3104b654e3192686c80aeb1dea49a0d5db556eb7fcb56cfe97c0a8c718f6cf3b"
+hash = "41df4051586053cbf0e1eabd89f900b3e4cd08b4e1ab762952954016f60cf441"
 
 [[files]]
 file = "config/logbegone.json"
