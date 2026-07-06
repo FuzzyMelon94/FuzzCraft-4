@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/chunky/tasks/minecraft/overworld.properties"
+hash = "85ab9914084e877182d0a218de4454a810cd97ce6ffdb63294024e4a58f3b1c9"
+
+[[files]]
 file = "config/logbegone.json"
 hash = "7b6b4204d9e66f14e92a0f1a8a48d7cd29a65762b4b7cc066cc557164f0e9001"
 
