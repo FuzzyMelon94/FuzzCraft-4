@@ -8,7 +8,7 @@
 
 ## Known Issues
 
-- **Create: Enchantment Industry** was added at a `preview-alpha` version (`2.5.0-preview-alpha1`). Expect rough edges — watch for crashes around enchanting contraptions.
+- **Create: Enchantment Industry** was added at a `preview-alpha` version (`2.5.0-preview-alpha1`). Requires Create: Dragons Plus dep (included). Expect rough edges — watch for crashes around enchanting contraptions.
 - **Steam 'n' Rails** is an unofficial 1.21.1 port (`railways-0.3.0-alpha.2`). Alpha status — trains and scheduling are the primary risk area.
 - **Create: CC Better Recipes** was added unintentionally via the `cc-create` slug. It adds CC:Tweaked recipe access to Create's recipe system. Verify this is wanted or remove it.
 - **Railways Navigator** depends on DragonLib (beta). Watch for any startup warnings from this dep.
