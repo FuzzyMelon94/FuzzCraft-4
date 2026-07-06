@@ -1,7 +1,7 @@
 # FuzzCraft 4 — Batch 1 Testing: Foundation
 
 ## Summary
-**Pack version:** 0.1.1
+**Pack version:** 0.1.1–0.1.2
 **Test date:** 2026/07/06
 **Tester:** FuzzyMelon94
 **Play mode:** Single player
@@ -48,7 +48,7 @@ None known.
 ## 4. Recipe & UI
 
 - [x] EMI opens correctly (default: `R` on an item)
-- [ ] Vanilla recipe book button absent (NERB working)
+- [~] Vanilla recipe book button absent (NERB working) — NERB ScreenMixin broken in v0.4.3 due to Java 21 class version issue; button remains but is cosmetic. Server-side payload reduction confirmed working. Config set to DISABLED — will take effect when NERB is fixed.
 - [x] EMI recipe lookup works for a vanilla item (e.g. crafting table)
 - [x] JourneyMap minimap visible in-world
 - [x] JourneyMap full-screen map opens (`J`) and shows explored chunks
@@ -68,8 +68,8 @@ None known.
 - [x] Crash Assistant — no interference with normal play; if a crash occurs, confirm it provides a helpful screen
 - [x] ToastBegone — confirm advancement/recipe toasts are suppressed
 - [x] Log Begone — check `config/logbegone.json` filters are loaded; no obviously noisy spam in log
-- [ ] Default Options — confirm sprint is toggled on, no view bobbing, other defaults correct
-- [ ] NERB — vanilla recipe book absent (covered in §4 but worth a deliberate check here)
+- [x] Default Options — sprint=Shift, sneak=Ctrl, bobView off confirmed (required keybindings.txt separate from options.txt)
+- [~] NERB — see §4 note; button visible but non-harmful
 
 ---
 

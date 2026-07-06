@@ -2,7 +2,7 @@
 **Author:** FuzzyMelon94
 **Working Title:** FuzzCraft
 **Status:** Active — Pre-Production
-**Last Updated:** 2026-07-05
+**Last Updated:** 2026-07-06
 
 ---
 
@@ -255,7 +255,7 @@ Quests are a **guided tutorial and reward system**, not a progression gate.
 
 | Batch | Name | Status | Notes |
 |---|---|---|---|
-| 1 | Foundation | ⬜ Not started | |
+| 1 | Foundation | 🟡 SP tested — MP pending | v0.1.1–0.1.2. All mods stable. NERB button cosmetically visible (ScreenMixin broken in v0.4.3); server-side reduction working. Default Options requires separate keybindings.txt. |
 | 2 | Tech Core | ⬜ Not started | |
 | 3 | Tech Extras & Food | ⬜ Not started | |
 | 4 | Magic | ⬜ Not started | |
