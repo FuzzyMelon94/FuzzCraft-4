@@ -2,7 +2,7 @@
 
 ## Summary
 **Pack version:** 0.2.1–0.2.x
-**Test date:** 
+**Test date:** 2026-07-06
 **Tester:** 
 **Play mode:** Single player
 
