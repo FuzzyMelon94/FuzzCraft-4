@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f5a4b2dbfef4ba5b889ab62ad1c370f96d972da63f326df40fbcfdd8c62f3d7d"
+hash = "35fdcf198a1b017e4c23ec3f138139770e0eaaf23c9c57d002000be20e1d1dc4"
 
 [[files]]
 file = "config/chunky/tasks/minecraft/overworld.properties"
@@ -167,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/create-framed.pw.toml"
 hash = "c6f449a5dbd6640cef3a2d46f198af505b1d3fe7cb38c43057bb16ea055c3d7f"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "4c0763d5351f0264d1d60c6fee012663f4855a9def0c31c309560779782945d1"
 metafile = true
 
 [[files]]

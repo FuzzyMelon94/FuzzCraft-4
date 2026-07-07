@@ -17,33 +17,33 @@
 
 ## 1. Launch & Stability
 
-- [ ] Game launches without crashes
-- [ ] No errors in log related to Create, CC:Tweaked, or any new mod on startup
-- [ ] All mods show as loaded in the mod list (check count ~77)
+- [x] Game launches without crashes
+- [x] No errors in log related to Create, CC:Tweaked, or any new mod on startup
+- [x] All mods show as loaded in the mod list (check count ~77)
 
 ---
 
 ## 2. Regression — Batch 1
 
-- [ ] EMI opens and shows recipes correctly
-- [ ] JourneyMap minimap renders
-- [ ] Jade tooltips appear on blocks
-- [ ] FTB Chunks map opens (`/ftbchunks map`)
-- [ ] Sodium/Iris options accessible (Video Settings → Shaders)
+- [x] EMI opens and shows recipes correctly
+- [x] JourneyMap minimap renders
+- [x] Jade tooltips appear on blocks
+- [x] FTB Chunks map opens (`/ftbchunks map`)
+- [x] Sodium/Iris options accessible (Video Settings → Shaders)
 
 ---
 
 ## 3. Create Core
 
-- [ ] Create tab visible in EMI/creative menu
-- [ ] Kinetic blocks (shaft, cogwheel, mechanical bearing) can be placed and connected
-- [ ] Stress/RPM display works on a shaft (right-click with wrench or goggles)
-- [ ] Crafts & Additions: motor and generator available in creative
+- [x] Create tab visible in EMI/creative menu
+- [x] Kinetic blocks (shaft, cogwheel, mechanical bearing) can be placed and connected
+- [x] Stress/RPM display works on a shaft (right-click with wrench or goggles)
+- [x] Crafts & Additions: motor and generator available in creative
 - [ ] Curios Jetpack: equip jetpack in Curios slot, verify flight
-- [ ] Enchantment Industry ⚠️: liquid XP tank and inscription machine available in creative — place one and verify no crash
-- [ ] Ore Excavation: mechanical drill with excavation upgrade mines ore veins
-- [ ] Molten Vents: check if vents generate in world (may require exploring or using `/locate` — see mod docs for structure name)
-- [ ] Fishing Bobber Detector: place detector over water, cast rod, verify redstone signal on bite
+- [x] Enchantment Industry ⚠️: liquid XP tank and inscription machine available in creative — place one and verify no crash
+- [x] Ore Excavation: mechanical drill with excavation upgrade mines ore veins
+- [x] Molten Vents: check if vents generate in world (may require exploring or using `/locate` — see mod docs for structure name)
+- [x] Fishing Bobber Detector: place detector over water, cast rod, verify redstone signal on bite
 
 ---
 
@@ -62,30 +62,30 @@
 
 ## 5. ComputerCraft
 
-- [ ] Place a computer, power it, open terminal
-- [ ] `help` command works in terminal
-- [ ] CC:C Bridge: attach a Create peripheral (e.g. speedometer) to a computer, verify it's accessible via `peripheral.find()`
-- [ ] Advanced Peripherals: place an Energy Detector or Geo Scanner, verify peripheral wraps in CC terminal
-- [ ] Advanced Peripherals RS Bridge: attach to a Refined Storage controller, verify RS system readable from CC (requires RS to be set up)
-- [ ] CC Total Logistics: check mod items available in creative
+- [x] Place a computer, power it, open terminal
+- [x] `help` command works in terminal
+- [x] CC:C Bridge: attach a Create peripheral (e.g. speedometer) to a computer, verify it's accessible via `peripheral.find()`
+- [x] Advanced Peripherals: place an Energy Detector or Geo Scanner, verify peripheral wraps in CC terminal
+- [x] Advanced Peripherals RS Bridge: attach to a Refined Storage controller, verify RS system readable from CC (requires RS to be set up)
+- [x] CC Total Logistics: check mod items available in creative
 - [ ] CC Redstone Link Bridge: verify Create redstone links accessible from CC peripheral
 
 ---
 
 ## 6. Silent Gear
 
-- [ ] Open EMI, find Silent Gear material analysis recipe
-- [ ] Craft basic gear part (head, rod) using available materials
-- [ ] Craft a tool from parts, verify it works
-- [ ] No crash on tooltip hover for Silent Gear items
+- [x] Open EMI, find Silent Gear material analysis recipe
+- [x] Craft basic gear part (head, rod) using available materials
+- [x] Craft a tool from parts, verify it works
+- [x] No crash on tooltip hover for Silent Gear items
 
 ---
 
 ## 7. Storage
 
 - [ ] **Refined Storage:** Place controller, disk drive, crafting grid — verify RS system powers on and items can be stored/retrieved
-- [ ] **Storage Drawers:** Place a drawer, insert items, verify display updates
-- [ ] **Sophisticated Backpacks:** Craft a basic backpack, equip in Curios slot, verify inventory opens
+- [x] **Storage Drawers:** Place a drawer, insert items, verify display updates
+- [x] **Sophisticated Backpacks:** Craft a basic backpack, equip in Curios slot, verify inventory opens
 
 ---
 
@@ -116,3 +116,5 @@ This batch includes many decorative/building mods. A quick creative sanity check
 ## Tester Notes
 
 <!-- Broken things, surprises, anything to feed back -->
+1. Appears you missed the actual Create: Jetpack mod - we have curios, but no actual jetpack.
+2. Doesn't look like the Redstone Link is visible via the `peripherals` command
