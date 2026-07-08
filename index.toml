@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "b2d6b06a81f8bb2306d93f1af748b6b8bf5618de8fb933e147e5dbe54822edba"
+hash = "f13446548cf10d4382f07d0b5fc007af11108e12d526d8414842fbc9816c7dad"
 
 [[files]]
 file = "config/chunky/tasks/minecraft/overworld.properties"
@@ -287,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
 
 [[files]]
