@@ -256,8 +256,8 @@ Quests are a **guided tutorial and reward system**, not a progression gate.
 | Batch | Name | Status | Notes |
 |---|---|---|---|
 | 1 | Foundation | ✅ Complete | v0.1.1–0.1.2. All mods stable. NERB button cosmetically visible (ScreenMixin broken in v0.4.3); server-side reduction working. Default Options requires separate keybindings.txt. FTB Chunks/Teams/JourneyMap multi-player checks deferred to next group session. |
-| 2 | Tech Core | 🔄 In Progress | v0.2.0–0.2.1. Mods added. Awaiting SP testing. Create Track Map (JourneyMap overlay) deferred to watchlist — no confirmed NeoForge 1.21.1 option. CC Better Recipes added via cc-create slug — verify intent. |
-| 3 | Tech Extras & Food | ⬜ Not started | |
+| 2 | Tech Core | ✅ Complete | v0.2.1–0.2.5. All mods stable. Create: Jetpack replaced with Create: Stuff 'N Additions. Fzzy Config added for in-game config management. Copycats+ EMI absence is expected behaviour (right-click apply mechanic). CC Redstone Link Bridge peripheral access unconfirmed — deferred. Create Track Map (JourneyMap overlay) on watchlist. Power gen/transfer (Powah recommended) added to Batch 3 scope. Slice & Dice deferred to Batch 3. Multiplayer testing deferred to post-final-batch group session. |
+| 3 | Tech Extras & Food | ⬜ Not started | Scope additions from Batch 2: power gen + transfer (Powah recommended), Slice & Dice (Create + Farmer's Delight compat). |
 | 4 | Magic | ⬜ Not started | |
 | 5 | World Gen & Combat | ⬜ Not started | |
 | 6 | Dimensions | ⬜ Not started | |

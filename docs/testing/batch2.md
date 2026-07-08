@@ -1,16 +1,16 @@
 # FuzzCraft 4 — Batch 2 Testing: Tech Core
 
 ## Summary
-**Pack version:** 0.2.1–0.2.x
+**Pack version:** 0.2.1–0.2.5
 **Test date:** 2026-07-06
-**Tester:** 
+**Tester:** FuzzyMelon94
 **Play mode:** Single player
 
 ## Known Issues
 
 - **Create: Enchantment Industry** was added at a `preview-alpha` version (`2.5.0-preview-alpha1`). Requires Create: Dragons Plus dep (included). Expect rough edges — watch for crashes around enchanting contraptions.
 - **Steam 'n' Rails** is an unofficial 1.21.1 port (`railways-0.3.0-alpha.2`). Alpha status — trains and scheduling are the primary risk area.
-- **Create: CC Better Recipes** was added unintentionally via the `cc-create` slug. It adds CC:Tweaked recipe access to Create's recipe system. Verify this is wanted or remove it.
+- **Create: CC Better Recipes** was added unintentionally via the `cc-create` slug — confirmed wanted, keeping it.
 - **Railways Navigator** depends on DragonLib (beta). Watch for any startup warnings from this dep.
 
 ---
@@ -68,7 +68,7 @@
 - [x] Advanced Peripherals: place an Energy Detector or Geo Scanner, verify peripheral wraps in CC terminal
 - [x] Advanced Peripherals RS Bridge: attach to a Refined Storage controller, verify RS system readable from CC (requires RS to be set up)
 - [x] CC Total Logistics: check mod items available in creative
-- [ ] CC Redstone Link Bridge: verify Create redstone links accessible from CC peripheral
+- [ ] CC Redstone Link Bridge: verify Create redstone links accessible from CC peripheral — not confirmed via `peripherals` command; try `peripheral.getNames()` adjacent to bound Redstone Link block. Deferred.
 
 ---
 
@@ -93,7 +93,7 @@
 
 This batch includes many decorative/building mods. A quick creative sanity check — not exhaustive.
 
-- [ ] Copycats+: copycat panel available and accepts a block texture
+- [x] Copycats+: blocks visible in creative tab; framed shapes not in EMI item list — resolved via Fzzy Config. EMI absence is by design (no standard recipe to index; blocks applied via right-click mechanic).
 - [x] Create Deco / Create Connected / Create Encased / Create Framed / Create Oxidized / Design n' Decor / Create Interiors: each has items visible in creative — no missing textures or crash on placement
 - [x] Power Loader: place a Power Loader, verify it chunk-loads the target area while receiving rotational power
 - [x] Dynamic Lights: Create items (e.g. blaze lantern) emit dynamic light when held
@@ -121,4 +121,4 @@ This batch includes many decorative/building mods. A quick creative sanity check
 3. Note: Trading floor doesn't have a UI - tested as per in game ponder, working as expected (no issue, just a note)
 4. Note: Sound of Steam doesn't just give Create machines enhanced audio, it adds functional organs (also working, just a note)
 5. Note: Dynamic Lights - again, not what the mod does. This one adds dynamic lighting support for contraptions (also working, no issues, just a note)
-6. Copycats+ not in EMI — likely by design. The mod works via right-clicking a copycat block with any block to apply its texture; no standard crafting recipe for EMI to index. Creative tab is the intended way to access them. No EMI compat plugin found for NeoForge 1.21.1 — treat as expected behaviour.
+6. Copycats+ not in EMI — resolved via Fzzy Config. EMI absence is expected (no standard recipe; apply texture by right-clicking a copycat block with any block).
