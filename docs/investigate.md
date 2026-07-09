@@ -21,3 +21,4 @@ Mods to evaluate for future batches. These go here instead of being added immedi
 | Recipe de-duplicator / Polymorphism (TBD) | Remove duplicate recipes from EMI or allow recipe switching — evaluate [Polymorphism](https://modrinth.com/mod/polymorphism) and other options for NeoForge 1.21.1 | 7 (QoL) |
 | Unification mods (TBD) | Unify duplicate raw ingredients across delight mods — confirmed needed in Batch 3 testing (e.g. Chili vs Chili Pepper from different mods); evaluate options for NeoForge 1.21.1 | 7 (QoL) |
 | [Create: Stuff & Additions Tank Fix](https://modrinth.com/mod/create-stuff-and-addition-tank-fix) | Bugfix mod for Create: Stuff 'N Additions tank behaviour — evaluate whether the issue manifests in play | 7 (QoL) |
+| [Icarus](https://modrinth.com/mod/icarus) | Wings, an alternate method of flight | 7 (QoL) |
