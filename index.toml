@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "3f2ee328b575507f8ef95d86fc9029a27fdc4342f84822f7c4e2256db188a9c8"
+hash = "52a3fe47905120d5bcc7af0c72b1cb2d0954a6e994bfbc23fe2ece914bf4a499"
 
 [[files]]
 file = "config/chunky/tasks/minecraft/overworld.properties"
@@ -57,11 +57,6 @@ metafile = true
 [[files]]
 file = "mods/ars-creo.pw.toml"
 hash = "e735b472ad5c38359636d5abb84ed1baeb461f72aa19c324c349543823a16188"
-metafile = true
-
-[[files]]
-file = "mods/ars-elixirum.pw.toml"
-hash = "65ae54fbe544adbd5c83872bfbe75f08939f9941f18bef611c4b829d421229f3"
 metafile = true
 
 [[files]]
@@ -477,11 +472,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
-metafile = true
-
-[[files]]
-file = "mods/fragmentum.pw.toml"
-hash = "85ba6f016d7447b4ba0013eab45ecfffd4349e99acd892d46c16bf0d2411f8cc"
 metafile = true
 
 [[files]]

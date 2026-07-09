@@ -1,7 +1,7 @@
 # FuzzCraft 4 — Batch 4 Testing: Magic
 
 ## Summary
-**Pack version:** 0.4.1–0.4.3
+**Pack version:** 0.4.1–0.4.4
 **Test date:** <tester fills in>
 **Tester:** <tester fills in>
 **Play mode:** Single player
@@ -72,9 +72,9 @@ e
 
 ## 7. Ars Additions
 
-- [ ] Ars Additions items appear in EMI
-- [ ] At least one new spell glyph or item from Ars Additions is craftable
-- [ ] No crash or conflict with Ars Nouveau core
+- [x] Ars Additions items appear in EMI
+- [x] At least one new spell glyph or item from Ars Additions is craftable
+- [x] No crash or conflict with Ars Nouveau core
 
 ---
 
@@ -88,16 +88,16 @@ e
 
 ## 9. Ars NumericHUD
 
-- [ ] Numeric mana/source values display on HUD while holding a spellbook (client-only — server players won't see this)
-- [ ] No HUD overlap or visual conflict with existing mods (EMI, JourneyMap, BetterF3)
+- [x] Numeric mana/source values display on HUD while holding a spellbook (client-only — server players won't see this)
+- [x] No HUD overlap or visual conflict with existing mods (EMI, JourneyMap, BetterF3)
 
 ---
 
 ## 10. Ars Lumos
 
-- [ ] Ars Lumos lighting effects are visible when casting spells or holding Ars items
-- [ ] No visual conflict with Iris/shader setup
-- [ ] No crash on launch (client-only mod)
+- [x] Ars Lumos lighting effects are visible when casting spells or holding Ars items
+- [x] No visual conflict with Iris/shader setup
+- [x] No crash on launch (client-only mod)
 
 ---
 
