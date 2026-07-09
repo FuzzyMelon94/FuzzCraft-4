@@ -105,52 +105,52 @@ None known.
 
 These mods are all Farmer's Delight addons. The goal is to spot crashes, missing recipes, or obvious conflicts — not to test every item in every mod.
 
-- [ ] Launch with delight suite loaded — no crash on world load
-- [ ] Open EMI and confirm delight mod items are present (spot-check a few: Ocean's Delight fish dish, Cultural Delights, My Nether's Delight)
-- [ ] Craft one recipe from at least 3 different delight mods to confirm Cooking Pot / Cutting Board integration works
-- [ ] Brewin' & Chewin' — craft a basic drink; confirm brewing mechanic works
-- [ ] Aquaculture 2 — fish with a basic rod; confirm new fish types catch correctly
-- [ ] Aquaculture Delight — check EMI for Aquaculture fish cooking recipes
-- [ ] TofuDelight / TofuCraftReload — check tofu items appear in EMI with recipes
-- [ ] Crabber's Delight — check crab items appear in EMI
-- [ ] Farmer's Knives — craft a knife variant; confirm it performs cutting recipes like the FD knife
-- [ ] Dungeon's Delight — check dungeon loot table items appear in EMI
-- [ ] Display Delight — place a food display item; confirm food can be placed on it
-- [ ] Storage Delight — craft a storage item; confirm it functions
-- [ ] No obvious recipe conflicts between delight mods in EMI (flag any duplicates)
+- [x] Launch with delight suite loaded — no crash on world load
+- [x] Open EMI and confirm delight mod items are present (spot-check a few: Ocean's Delight fish dish, Cultural Delights, My Nether's Delight)
+- [x] Craft one recipe from at least 3 different delight mods to confirm Cooking Pot / Cutting Board integration works
+- [x] Brewin' & Chewin' — craft a basic drink; confirm brewing mechanic works
+- [x] Aquaculture 2 — fish with a basic rod; confirm new fish types catch correctly
+- [x] Aquaculture Delight — check EMI for Aquaculture fish cooking recipes
+- [x] TofuDelight / TofuCraftReload — check tofu items appear in EMI with recipes
+- [x] Crabber's Delight — check crab items appear in EMI
+- [x] Farmer's Knives — craft a knife variant; confirm it performs cutting recipes like the FD knife
+- [x] Dungeon's Delight — check dungeon loot table items appear in EMI
+- [x] Display Delight — place a food display item; confirm food can be placed on it
+- [x] Storage Delight — craft a storage item; confirm it functions
+- [8] No obvious recipe conflicts between delight mods in EMI (flag any duplicates)
 
 ---
 
 ## 11. Botany Pots Tiers *(new — v0.3.3)*
 
-- [ ] Botany Pots Tiers items appear in EMI / creative
-- [ ] Craft a tiered pot (e.g. Iron Botany Pot); confirm it accepts crops
-- [ ] Confirm tiered pot grows crops faster than the base Botany Pot
-- [ ] Hopper below a tiered pot — confirm auto-harvest still works
+- [x] Botany Pots Tiers items appear in EMI / creative
+- [x] Craft a tiered pot (e.g. Iron Botany Pot); confirm it accepts crops
+- [x] Confirm tiered pot grows crops faster than the base Botany Pot
+- [x] Hopper below a tiered pot — confirm auto-harvest still works
 
 ---
 
 ## 12. EMI Suite *(new — v0.3.4)*
 
-- [ ] EMI opens cleanly with no error toasts on first load
-- [ ] TMRV — no crash on load; confirms no errors in log
-- [ ] EMI++ — opens cleanly; UI enhancements visible (favourites, search) ⚠️ config tuning deferred to Batch 7
-- [ ] Refined Storage EMI Integration — open RS grid; confirm crafting recipes visible in EMI from the grid
-- [ ] EMI Ores — search "ore" in EMI; confirm ore generation info entries are present
-- [ ] EMI Loot — look up a mob (e.g. Zombie) in EMI; confirm loot table entries are visible
-- [ ] EMI Enchanting — open an enchanting table; confirm EMI shows enchant cost/level info
-- [ ] EMIffect — hover over a potion or food with an effect in EMI; confirm effect details shown
-- [ ] Extra Mod Integrations — spot-check a mod that wouldn't normally have EMI support (e.g. Aquaculture, a delight addon); confirm recipes visible
+- [x] EMI opens cleanly with no error toasts on first load
+- [x] TMRV — no crash on load; confirms no errors in log
+- [x] EMI++ — opens cleanly; UI enhancements visible (favourites, search) ⚠️ config tuning deferred to Batch 7
+- [x] Refined Storage EMI Integration — open RS grid; confirm crafting recipes visible in EMI from the grid
+- [x] EMI Ores — search "ore" in EMI; confirm ore generation info entries are present
+- [x] EMI Loot — look up a mob (e.g. Zombie) in EMI; confirm loot table entries are visible
+- [x] EMI Enchanting — open an enchanting table; confirm EMI shows enchant cost/level info
+- [x] EMIffect — hover over a potion or food with an effect in EMI; confirm effect details shown
+- [x] Extra Mod Integrations — spot-check a mod that wouldn't normally have EMI support (e.g. Aquaculture, a delight addon); confirm recipes visible
 
 ---
 
 ## 13. Jade Addons *(new — v0.3.4)*
 
-- [ ] Jade tooltip visible when looking at a Create machine (shaft, press, etc.)
-- [ ] Jade tooltip visible when looking at a Productive Bee hive
-- [ ] Jade tooltip visible when looking at a Powah generator — confirm RF output shown
-- [ ] Jade tooltip visible when looking at a Refined Storage machine
-- [ ] No crash or missing tooltip errors in the Jade overlay
+- [x] Jade tooltip visible when looking at a Create machine (shaft, press, etc.)
+- [x] Jade tooltip visible when looking at a Productive Bee hive
+- [x] Jade tooltip visible when looking at a Powah generator — confirm RF output shown
+- [x] Jade tooltip visible when looking at a Refined Storage machine
+- [x] No crash or missing tooltip errors in the Jade overlay
 
 ---
 
@@ -175,3 +175,4 @@ These mods are all Farmer's Delight addons. The goal is to spot crashes, missing
 
 ### Round 2 (v0.3.4)
 <!-- Broken things, surprises, unexpected behaviour, suggestions -->
+8. Doesn't appear to be any conflicts, but we will need to either grab "Polymorphism" for recipe switching, or do some ingredient unification as I think some of the "raw" ingredients might be duplicated and it'd be nice to only need 1 (e.g. there is Chili and Chili Pepper)
