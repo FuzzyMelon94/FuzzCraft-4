@@ -12,7 +12,6 @@ Mods to evaluate for future batches. These go here instead of being added immedi
 | [Automobility](https://modrinth.com/mod/automobility) | Driveable vehicles — fun traversal addition; evaluate fit alongside Paragliders and Waystones | 7 (Navigation) |
 | [Aether's Delight](https://modrinth.com/mod/the-aethers-delight) | Farmer's Delight compat for The Aether — deferred from Batch 3; add alongside the full Aether suite | 6 (Dimensions) |
 | [Twilight Delight](https://modrinth.com/mod/twilight-delight) | Farmer's Delight compat for Twilight Forest — deferred from Batch 3; add alongside Twilight Forest | 6 (Dimensions) |
-| [Ars Delight](https://modrinth.com/mod/arsdelight) | Farmer's Delight compat for Ars Nouveau — deferred from Batch 3; add alongside Ars Nouveau | 4 (Magic) |
 | Chunky Offline — multiple task support | Investigate whether Chunky Offline can run a sequence of tasks (e.g. one per player base) rather than a single configured task — may allow queuing per-base pregen jobs to run overnight without admin intervention | 3+ (post-Tech Core) |
 | CC: Tweaked — auto Chunky pregen around FTB Chunks claims | Write a CC script that reads FTB Chunks claim data and fires Chunky pregen jobs (256 block radius) around each claimed area automatically — replaces manual per-base onboarding step. CC:Tweaked + CC:C Bridge now in pack. | 8 (Questing/Scripts) |
 | Steam 'n' Rails train network map display (TBD) | Investigated at Batch 2 — no confirmed NeoForge 1.21.1 JourneyMap overlay found. Original Create Track Map is browser-based. Railways Navigator added for in-game navigation. See watchlist. | Watchlist — revisit if overlay mod appears |
@@ -22,3 +21,4 @@ Mods to evaluate for future batches. These go here instead of being added immedi
 | Recipe de-duplicator / Polymorphism (TBD) | Remove duplicate recipes from EMI or allow recipe switching — evaluate [Polymorphism](https://modrinth.com/mod/polymorphism) and other options for NeoForge 1.21.1 | 7 (QoL) |
 | Unification mods (TBD) | Unify duplicate raw ingredients across delight mods — confirmed needed in Batch 3 testing (e.g. Chili vs Chili Pepper from different mods); evaluate options for NeoForge 1.21.1 | 7 (QoL) |
 | [Create: Stuff & Additions Tank Fix](https://modrinth.com/mod/create-stuff-and-addition-tank-fix) | Bugfix mod for Create: Stuff 'N Additions tank behaviour — evaluate whether the issue manifests in play | 7 (QoL) |
+| [Icarus](https://modrinth.com/mod/icarus) | Wings, an alternate method of flight | 7 (QoL) |
