@@ -19,6 +19,6 @@ Mods to evaluate for future batches. These go here instead of being added immedi
 | [Bountiful](https://modrinth.com/mod/bountiful) | Procedural bounty boards — multiplayer engagement layer; evaluate whether it fits alongside FTB Quests or creates overlap | 7 (QoL) or 8 (Questing) |
 | Inventory sorting mod (TBD) | Player inventory and chest sorting — evaluate options (Inventory Profiles Next, Tom's Simple Storage, etc.) for NeoForge 1.21.1 compatibility | 7 (QoL) |
 | Right click harvest mod (TBD) | Harvest crops without breaking them — evaluate options for NeoForge 1.21.1 | 7 (QoL) |
-| Recipe de-duplicator (TBD) | Remove duplicate recipes from EMI — evaluate options (EMI Loot, etc.) for NeoForge 1.21.1 | 7 (QoL) |
-| Unification mods (TBD) | Unify duplicate ore/ingot items across mods — evaluate options for NeoForge 1.21.1 | 7 (QoL) |
+| Recipe de-duplicator / Polymorphism (TBD) | Remove duplicate recipes from EMI or allow recipe switching — evaluate [Polymorphism](https://modrinth.com/mod/polymorphism) and other options for NeoForge 1.21.1 | 7 (QoL) |
+| Unification mods (TBD) | Unify duplicate raw ingredients across delight mods — confirmed needed in Batch 3 testing (e.g. Chili vs Chili Pepper from different mods); evaluate options for NeoForge 1.21.1 | 7 (QoL) |
 | [Create: Stuff & Additions Tank Fix](https://modrinth.com/mod/create-stuff-and-addition-tank-fix) | Bugfix mod for Create: Stuff 'N Additions tank behaviour — evaluate whether the issue manifests in play | 7 (QoL) |
