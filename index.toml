@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "30ec2ba4246572592e411857387f4f5a53a87130f87c6a7c65cd6092547438d9"
+hash = "3f2ee328b575507f8ef95d86fc9029a27fdc4342f84822f7c4e2256db188a9c8"
 
 [[files]]
 file = "config/chunky/tasks/minecraft/overworld.properties"
@@ -50,8 +50,33 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/ars-additions.pw.toml"
+hash = "08f46822b355882721807489cbf64a7e8ac03efc1476136e60acbc8dd7dc2880"
+metafile = true
+
+[[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "e735b472ad5c38359636d5abb84ed1baeb461f72aa19c324c349543823a16188"
+metafile = true
+
+[[files]]
+file = "mods/ars-elixirum.pw.toml"
+hash = "65ae54fbe544adbd5c83872bfbe75f08939f9941f18bef611c4b829d421229f3"
+metafile = true
+
+[[files]]
+file = "mods/ars-lumos.pw.toml"
+hash = "7b9ae92dca84c311f8eec343a501c542db4f89a0a6217d91cf570fa4a0d35023"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "18d7fdd3852c40e9ea63a9597f5402f8ac3dd4d4a62c81e3a6cbe09daa009b02"
+metafile = true
+
+[[files]]
+file = "mods/ars-numerichud.pw.toml"
+hash = "5d2eb89720ab0e767cd03b8cd943f08eb143996baf23dbc48ab75b0f02407ca2"
 metafile = true
 
 [[files]]
@@ -370,6 +395,11 @@ hash = "633da82d88437f80abcc0aed54eda0a6a7d89e1f3289d3fdc85a529d1ec0b0ee"
 metafile = true
 
 [[files]]
+file = "mods/dynamic_asset_generator.pw.toml"
+hash = "4c404e9cbac4caf352804b3a4c7943941ff31772e20cfb1076a680f25e6b68e7"
+metafile = true
+
+[[files]]
 file = "mods/egg-delight.pw.toml"
 hash = "0737dca47fa6a695bafb4b1a784263672fee3b42349eebd7093dfe1d8d5706a8"
 metafile = true
@@ -447,6 +477,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/fragmentum.pw.toml"
+hash = "85ba6f016d7447b4ba0013eab45ecfffd4349e99acd892d46c16bf0d2411f8cc"
 metafile = true
 
 [[files]]
