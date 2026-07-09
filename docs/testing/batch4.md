@@ -86,22 +86,14 @@ e
 
 ---
 
-## 9. Ars Elixirum
-
-- [ ] Ars Elixirum items appear in EMI
-- [ ] At least one elixir recipe is visible and craftable
-- [ ] No crash or conflict with Ars Nouveau core
-
----
-
-## 10. Ars NumericHUD
+## 9. Ars NumericHUD
 
 - [ ] Numeric mana/source values display on HUD while holding a spellbook (client-only — server players won't see this)
 - [ ] No HUD overlap or visual conflict with existing mods (EMI, JourneyMap, BetterF3)
 
 ---
 
-## 11. Ars Lumos
+## 10. Ars Lumos
 
 - [ ] Ars Lumos lighting effects are visible when casting spells or holding Ars items
 - [ ] No visual conflict with Iris/shader setup
@@ -109,14 +101,14 @@ e
 
 ---
 
-## 12. Deferred — Requires Server / Multiplayer
+## 11. Deferred — Requires Server / Multiplayer
 
 - Multiplayer magic combat: verify spell lag/sync is acceptable with multiple players casting
 - Source generation in shared bases (multiple players drawing from same Source network)
 
 ---
 
-## 13. Tester Notes
+## 12. Tester Notes
 
 <!-- Broken things, surprises, config concerns, feedback -->
 1. Had to remove Sodium Dynamic Lights and Create Dynamic Lights due to Ars bundling the same jar
