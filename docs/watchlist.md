@@ -23,6 +23,7 @@ Mods deferred because no 1.21.1 NeoForge build exists yet, or because the timing
 
 | Mod | Reason | Notes |
 |---|---|---|
+| [YUNG's Bridges](https://modrinth.com/mod/yungs-bridges) | No config system unlike other YUNG's mods — spawn rate can only be tuned via a large datapack override; not worth the maintenance cost | Re-add if a config system is added in a future version |
 | Create Track Map (JourneyMap overlay) | No confirmed NeoForge 1.21.1 JourneyMap overlay exists — original mod is browser-based (localhost port). Railways Navigator covers in-game navigation. | Re-evaluate if a true JourneyMap overlay appears. |
 | Slice & Dice | Create + Farmer's Delight integration — no point adding without FD | Add in Batch 3 alongside Farmer's Delight |
 | Create: Ars | Create + Ars Nouveau integration — no point adding without Ars | Add in Batch 4 alongside Ars Nouveau |
