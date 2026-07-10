@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "bc910bb37c0f219e1b6d417d8aadbcea8291af3e2e5418c3065656da48e58a38"
+hash = "bf486a757cf6afc07bb2e11ba57851040a241e17e824f383ffb4a8725775e303"
 
 [[files]]
 file = "config/chunky/tasks/minecraft/overworld.properties"
