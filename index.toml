@@ -25,14 +25,6 @@ file = "config/nerb/general.yaml"
 hash = "a1fcb5fcda82743a7a908d16f9841e8a9f41f5e61a546fb37c59ace15e82f90f"
 
 [[files]]
-file = "datapacks/yungs-bridges-boost/data/yungsbridges/worldgen/configured_feature/bridge_list.json"
-hash = "04fb47eb972bddfcd2e386552b88eea1d3409b5f4868b2fae5ce76c2b69d104d"
-
-[[files]]
-file = "datapacks/yungs-bridges-boost/pack.mcmeta"
-hash = "9f6dcece8fd3392894e751a0cf3433b51488d7abce527dc13d8e9d5fa34b4008"
-
-[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "b2890f92c87f48cb45a0d8053f69afdbee6ce828c07cd0d7d4c3fd7c201e3eb0"
 metafile = true
@@ -955,9 +947,4 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "9854b699d5a067c46ac99b1dedeeb529bff3fc18dd079e29b438c4cbf9725f68"
-metafile = true
-
-[[files]]
-file = "mods/yungs-bridges.pw.toml"
-hash = "c5e5f5aed37edd8073ec736e179b6159530ff497f4fe4c4dfaf954c810910433"
 metafile = true
