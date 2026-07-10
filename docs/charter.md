@@ -2,7 +2,7 @@
 **Author:** FuzzyMelon94
 **Working Title:** FuzzCraft
 **Status:** Active — Pre-Production
-**Last Updated:** 2026-07-06
+**Last Updated:** 2026-07-10
 
 ---
 
@@ -259,7 +259,7 @@ Quests are a **guided tutorial and reward system**, not a progression gate.
 | 2 | Tech Core | ✅ Complete | v0.2.1–0.2.5. All mods stable. Create: Jetpack replaced with Create: Stuff 'N Additions. Fzzy Config added for in-game config management. Copycats+ EMI absence is expected behaviour (right-click apply mechanic). CC Redstone Link Bridge peripheral access unconfirmed — deferred. Create Track Map (JourneyMap overlay) on watchlist. Power gen/transfer (Powah recommended) added to Batch 3 scope. Slice & Dice deferred to Batch 3. Multiplayer testing deferred to post-final-batch group session. |
 | 3 | Tech Extras & Food | ✅ Complete | v0.3.1–0.3.5. Productive Bees, Powah, Farmer's Delight + large delight suite (~25 addons), Slice & Dice, Botany Pots/Trees/Tiers, Spice of Life: Carrot Edition, AppleSkin, Aquaculture 2, full EMI suite (TMRV, EMI++, RS integration, Accelerator, Extra Integrations, Ores, Loot, Enchanting, Effect), Jade Addons, Better ModList. Fzzy Config replaced by Better ModList (returned as dep via EMI Loot). Mob automation deferred — Create covers basics. Aether's/Twilight/Ars Delight deferred to their dimension batches. Deferred to Batch 7: SoL milestone config tuning, ingredient unification across delight mods (e.g. Chili vs Chili Pepper), EMI++ config, Create: Stuff & Additions Tank Fix. Multiplayer testing deferred to post-final-batch group session. |
 | 4 | Magic | ✅ Complete | v0.4.1–0.4.4. Ars Nouveau 5.12.1 + Patchouli + GeckoLib + Ars Delight + Ars Additions + Ars Creo + Ars NumericHUD + Ars Lumos. Sodium Dynamic Lights and Create: Dynamic Lights removed — Ars Nouveau bundles lambdynlights-api 4.5.1 as a JAR-in-JAR dep, causing a module conflict; no workaround found. Ars Elixirum removed — alpha only, mixin failure on NeoForge 1.21.1. 141 mods total. |
-| 5 | World Gen & Combat | 🔄 In Progress | v0.5.0–. Terralith + Tectonic + BOP, Incendium, Formations Nether, Nullscape, full YUNG's suite (minus Portals — no 1.21.1 build), CTOV + Paxi, Sparse Structures, Better Combat, Apotheosis + deps, AttributeFix, Born in Chaos, Legendary Monsters, Enderman Overhaul, Creeper Overhaul, Ribbits, Nyf's Spiders, Critters and Companions, Illager Invasion, Naturalist. Friends & Foes, Aquamirae + Delight, YUNG's Better Portals deferred — no 1.21.1 NeoForge versions. 186 mods total. |
+| 5 | World Gen & Combat | ✅ Complete | v0.5.1. Terralith + Tectonic + BOP, Incendium, Formations Nether, Nullscape, YUNG's suite (minus Bridges and Portals), CTOV + Paxi, Sparse Structures, Better Combat, Apotheosis + deps, AttributeFix, Born in Chaos, Legendary Monsters, Enderman Overhaul, Creeper Overhaul, Ribbits, Nyf's Spiders, Critters and Companions, Illager Invasion, Naturalist. Fixed: 14 world-gen/structure mods incorrectly marked server-only by Modrinth (Lithostitched, Formations Library, all YUNG's, CTOV, Sparse Structures, Formations Nether). YUNG's Bridges removed — no config system for spawn rate; Friends & Foes, Aquamirae + Delight, YUNG's Portals deferred — no 1.21.1 NeoForge builds. 185 mods total. |
 | 6 | Dimensions | ⬜ Not started | |
 | 7 | Navigation & QoL | ⬜ Not started | |
 | 8 | Questing | ⬜ Not started | |
